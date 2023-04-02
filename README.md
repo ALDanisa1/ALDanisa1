@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [financial system](https://github.com/ALDanisa1/Financial_system)
+- 🔭 I’m currently working on [Simplification of Financial system](https://github.com/ALDanisa1/Financial_system)
 
 - 🌱 I’m currently learning **nodejs and react**
 
