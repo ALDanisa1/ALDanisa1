@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anele Lloyd Danisa</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/ALDanisa1/ALDanisa1/blob/main/image.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/ALDanisa1/ALDanisa1/blob/main/image.gif?raw=true" style="margin-top: 50px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldanisa1&label=Profile%20views&color=0e75b6&style=flat" alt="aldanisa1" /> </p>
 
 
